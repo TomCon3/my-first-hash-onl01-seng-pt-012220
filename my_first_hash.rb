@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {"color" => red}
+  my_hash = {"color" => "red"}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 end
 
